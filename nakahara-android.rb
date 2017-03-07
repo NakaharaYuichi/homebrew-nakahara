@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/homebrew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class BisqueAndroid < Formula
+class NakaharaAndroid < Formula
   desc "create develop environment for android"
   homepage "http://www.google.com" # dummy
   url "http://www.google.com" # dummy
