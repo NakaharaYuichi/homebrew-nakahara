@@ -6,7 +6,7 @@ class NakaharaAndroid < Formula
   desc "create develop environment for android"
   homepage "http://www.google.com" # dummy
   url "http://www.google.com" # dummy
-  version "1.1.0"
+  version "1.2.0"
 
   def need_sdk_list
     [
@@ -28,6 +28,12 @@ class NakaharaAndroid < Formula
       "android-16",
       "android-15",
       "android-14",
+      "android-13",
+      "android-12",
+      "android-11",
+      "android-10",
+      "android-9",
+      "android-8",
       "extra-android-m2repository",
       "extra-android-support",
       "extra-google-google_play_services",
